@@ -4,6 +4,10 @@ Trying to solve
 
 https://www.tptp.org/cgi-bin/SeeTPTP?Category=Problems&Domain=PUZ&File=PUZ001+1.p
 
+In Lean
+
+https://gist.github.com/arademaker/648efe206d02d27462681bd19cbc7eda
+
 Using
 
 - MRS Logic
@@ -24,4 +28,7 @@ Step by Step:
   - mrs logic
 
 
-Code at demo.py
+Code at demo.py we are keeping track of the progress with
+
+python demo.py > demo.txt
+
